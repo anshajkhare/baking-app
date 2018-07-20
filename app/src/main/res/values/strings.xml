@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="title_activity_description">DescriptionActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="appwidget_text">Baking App</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_favorites">No favorites set, set a recipe as your favorite to show it here</string>
+    <string name="error_message">Sorry, no network connection. Check your network and try again</string>
+</resources>
